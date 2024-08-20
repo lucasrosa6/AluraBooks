@@ -93,7 +93,7 @@
 
     .opcoes__link{
         text-decoration: none;
-        color: var(--preto--);
+        color: var(--preto);
     }
 
     .container__imagem-transparente{
@@ -106,12 +106,11 @@
 
     .opcoes__botao:checked~.lista-menu{
         display: block;
-        width: auto;        
+        width: auto;
     }
-    
+
     .opcoes__botao{
         display: none;
     }
-
 }
 
