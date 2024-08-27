@@ -74,7 +74,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-
+    
     .carrossel__titulo{
         font-size: 26px;
     }
@@ -92,7 +92,7 @@
         display: block;
         top: 60%;
     }
-    
+
     .card{
         width: 40%;
         margin: 2em auto;
